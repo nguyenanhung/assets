@@ -28,7 +28,6 @@
         }
     ],
     "require": {
-        "php": ">=5.4",
         "ext-curl": "*",
         "ext-json": "*",
         "monolog/monolog": "^1.23",
